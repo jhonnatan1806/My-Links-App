@@ -1,0 +1,9 @@
+ul,ol,dl{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mw-400px {
+  max-width: 400px;
+}
