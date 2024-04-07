@@ -1,0 +1,7 @@
+/* Estilos de Omar Vite*/
+
+.ejemplo-navbar {
+    position: sticky;
+    display: flex;
+    inset: 0;
+}
