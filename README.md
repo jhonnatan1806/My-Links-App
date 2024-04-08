@@ -249,7 +249,7 @@ Para crear un archivo podemos usar la siguiente forma `nombre_apellido.html` en 
 
 ### 7.2. Estructura para subir archivos
 
-Si necesitas agregar archivos puedes hacerlos en la carpeta `files` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
+Si necesitas agregar archivos puedes hacerlo en la carpeta `files` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
 
 ![alt text](img/guide/image-41.png)
 
@@ -259,7 +259,7 @@ Si necesitas agregar archivos puedes hacerlos en la carpeta `files` con el forma
 
 ### 7.3. Estructura para subir imagenes
 
-Si necesitas agregar imagenes puedes hacerlos en la carpeta `img` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
+Si necesitas agregar imagenes puedes hacerlo en la carpeta `img` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
 
 ![alt text](img/guide/image-42.png)
 
@@ -269,7 +269,7 @@ Si necesitas agregar imagenes puedes hacerlos en la carpeta `img` con el formato
 
 ### 7.4. Estructura para subir estilos
 
-Si necesitas agregar estilos puedes hacerlos en la carpeta `css` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
+Si necesitas agregar estilos puedes hacerlo en la carpeta `css` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
 
 ![alt text](img/guide/image-43.png)
 
