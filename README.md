@@ -1,4 +1,4 @@
-# My Links
+# Aprendiendo GIT: My Links APP
 
 ## 1. Introducción
 
