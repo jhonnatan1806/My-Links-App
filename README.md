@@ -149,7 +149,7 @@ De igual forma, podemos instalar la extensión de Prettier.
 
 ![alt text](img/guide/image-24.png)
 
-## 4. Clonar el repositorio
+## 4. Crear un fork del repositorio
 
 Para poder trabajar en el proyecto, debemos crear un fork del repositorio. Para ello, debemos seguir los siguientes pasos:
 
@@ -164,6 +164,8 @@ Luego el nombre de nuestro repositorio y le damos en el botón "Create fork".
 Verificamos que se haya creado nuestro repositorio.
 
 ![alt text](img/guide/image-27.png)
+
+## 5. Clonar el repositorio
 
 Copiamos la URL de nuestro repositorio.
 
@@ -189,7 +191,7 @@ cd my-links-ieee-cs-uni
 
 ![alt text](img/guide/image-31.png)
 
-## 5. Crear una rama
+## 6. Crear un branch
 
 Para crear una rama, debemos ejecutar el siguiente comando:
 
@@ -209,7 +211,7 @@ git checkout feature/<nombre-apellido>
 
 ---
 
-## 6. Actividad: Personalizar mi perfil
+## 7. Actividad: Personalizar mi perfil
 
 Primero debemos ingresar al proyecto para ello debemos ejecutar el siguiente comando:
 
@@ -235,7 +237,7 @@ Ahora podremos visualizar nuestro proyecto en el navegador.
 
 ![alt text](img/guide/image-38.png)
 
-### 6.1. Crear un archivo HTML
+### 7.1. Crear un archivo HTML
 
 Para crear un archivo podemos usar la siguiente forma `nombre_apellido.html` en la carpeta principal del proyecto.
 
@@ -245,7 +247,7 @@ Para crear un archivo podemos usar la siguiente forma `nombre_apellido.html` en 
 
 > **Nota:** Puedes utilizar el archivo `jane_doe.html` como referencia.
 
-#### Estructura para subir archivos
+### 7.2. Estructura para subir archivos
 
 Si necesitas agregar archivos puedes hacerlos en la carpeta `files` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
 
@@ -255,7 +257,7 @@ Si necesitas agregar archivos puedes hacerlos en la carpeta `files` con el forma
 <a href="files/jane_doe.cv.pdf" download>Descargar CV</a>
 ```
 
-#### Estructura para subir imagenes
+### 7.3. Estructura para subir imagenes
 
 Si necesitas agregar imagenes puedes hacerlos en la carpeta `img` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
 
@@ -265,7 +267,7 @@ Si necesitas agregar imagenes puedes hacerlos en la carpeta `img` con el formato
 <img src="img/jane_doe.profile.jpg" alt="Imagen de perfil de Jane Doe">
 ```
 
-#### Estructura para subir estilos
+### 7.4. Estructura para subir estilos
 
 Si necesitas agregar estilos puedes hacerlos en la carpeta `css` con el formato `<nombre>.<tipo>.<extension>` y referenciarlas en tu archivo HTML.
 
@@ -278,7 +280,7 @@ Si necesitas agregar estilos puedes hacerlos en la carpeta `css` con el formato 
 
 ![alt text](img/guide/image-44.png)
 
-### 6.2. Subir los cambios al repositorio remoto
+### 7.5. Subir los cambios al repositorio remoto
 
 Para subir los cambios a nuestro repositorio remoto, primero revisaremos el estado de nuestro repositorio con el siguiente comando:
 
@@ -328,7 +330,7 @@ Luego de iniciar sesión podremos ver que los cambios se subieron correctamente.
 
 ![alt text](img/guide/image-50.png)
 
-### 6.3. Crear un Pull Request
+### 7.6. Crear un Pull Request
 
 Nos dirigimos a nuestro repositorio en GitHub y hacemos clic en el botón "Compare & pull request".
 
